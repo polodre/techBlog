@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS trailhike_db;
-CREATE database trailhike_db;
+DROP DATABASE IF EXISTS techblog_db;
+CREATE database techblog_db;
 
-USE trailhike_db;s
+USE techblog_db;
